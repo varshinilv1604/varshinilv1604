@@ -3,8 +3,8 @@
   <h1>Hi 👋, I'm Varshini Lv</h1>
   <h3>A Machine Learning student focused on LLMs, Deep Learning, and end-to-end MLOps pipeline deployment.</h3>
 
-  <!-- Cool Framer-style Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=7B68EE,FF69B4&height=120&section=header&text=Varshini%20Lv&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Animation" />
+  <!-- Glassmorphism Style Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=6A5ACD,9370DB&height=140&section=header&text=Varshini%20Lv&fontSize=42&fontColor=ffffff&animation=blinking&desc=ML%20%7C%20LLMs%20%7C%20Deep%20Learning&descAlign=50&descSize=18" alt="Glassmorphism Header" />
 
 </div>
 
@@ -16,10 +16,7 @@
 ---
 
 ### Connect with me
-<!-- Add your LinkedIn / Twitter / other links here -->
-<!-- Example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
--->
+<!-- Add your social links here (LinkedIn, X, etc.) -->
 
 ---
 
@@ -57,5 +54,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7B68EE&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9370DB&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
