@@ -1,9 +1,11 @@
 <div align="center">
+
   <h1>Hi 👋, I'm Varshini Lv</h1>
   <h3>A Machine Learning student focused on LLMs, Deep Learning, and end-to-end MLOps pipeline deployment.</h3>
 
-  <!-- Command Prompt Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=18&color=00FF9F&center=true&vCenter=true&width=700&lines=Exploring+LLMs+and+Deep+Learning...;Building+end-to-end+MLOps+pipelines...;Turning+ideas+into+intelligent+systems...;Always+learning+new+technologies...&cursor=█" alt="Typing" />
+  <!-- Cool Framer-style Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=7B68EE,FF69B4&height=120&section=header&text=Varshini%20Lv&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Animation" />
+
 </div>
 
 ---
@@ -14,9 +16,9 @@
 ---
 
 ### Connect with me
-<!-- Add your social links here later -->
+<!-- Add your LinkedIn / Twitter / other links here -->
 <!-- Example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 -->
 
 ---
@@ -55,5 +57,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF9F&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7B68EE&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
