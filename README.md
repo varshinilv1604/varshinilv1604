@@ -1,22 +1,26 @@
 <div align="center">
 
+  <!-- Terminal Style Header -->
   <h1>Hi 👋, I'm Varshini Lv</h1>
   <h3>A Machine Learning student focused on LLMs, Deep Learning, and end-to-end MLOps pipeline deployment.</h3>
 
-  <!-- Glassmorphism Style Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=6A5ACD,9370DB&height=140&section=header&text=Varshini%20Lv&fontSize=42&fontColor=ffffff&animation=blinking&desc=ML%20%7C%20LLMs%20%7C%20Deep%20Learning&descAlign=50&descSize=18" alt="Glassmorphism Header" />
+  <pre>
+<code style="background:#0d1117; color:#00ff9f; padding:15px; border-radius:10px; display:inline-block; font-family:Consolas, monospace; border:1px solid #21262d;">
+$ whoami
+→ Varshini Lv | ML Engineer in training
+
+$ current-focus
+→ LLMs • Deep Learning • MLOps Pipelines
+
+$ git status
+→ Building intelligent systems...
+
+$ npm run deploy
+→ Deploying knowledge to production 🚀
+</code>
+  </pre>
 
 </div>
-
----
-
-### 📫 How to reach me
-**lvvarshini@gmail.com**
-
----
-
-### Connect with me
-<!-- Add your social links here (LinkedIn, X, etc.) -->
 
 ---
 
@@ -53,6 +57,11 @@
 
 ---
 
+### 📫 How to reach me
+**Email:** [lvvarshini@gmail.com](mailto:lvvarshini@gmail.com)
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9370DB&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff9f&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
